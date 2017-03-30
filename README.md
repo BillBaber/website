@@ -1,4 +1,5 @@
 # website
+<!doctype html>
 <html>
 <head>
 <title>Bill Baber</title>
@@ -36,3 +37,71 @@
   </div>
 </body>
 </html>
+
+<style>
+/*{
+    border: 1px dashed #00f;
+}*/
+
+
+body{
+  background: url(http://68.media.tumblr.com/8aaaad46e371d4be0dc54af3aa6dc4ef/tumblr_not4baAehL1rlnsjno1_1280.png);
+  background-size: 100%, 100%;
+    
+}
+
+.main{
+  text-align: center;
+}
+
+.main h1{
+  color: #f3c;
+  font-size: 150px
+  }
+
+.main h3{
+  font-size: 50px;
+  color: #3fb;
+  margin-top: -100px;
+   }
+
+.btn {
+  font-family: 'Avenir', sans-serif;
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1.3px;
+  padding: 10px 20px;
+  display: inline-block;
+  margin-bottom: 20px;  
+  color: #ff3;
+  position: relative;
+}
+
+.btn:hover { 
+    background-color: #ad33ff;
+}
+
+h4 {
+  font-family: 'Avenir', sans-serif;
+  font-size: 16px;
+  padding: 10px 20px;
+  text-transform: uppercase;  
+  margin-bottom: 20px;   
+  color: #1aff1a;
+  display: inline-block;
+  ;
+  
+}
+
+#drop, #drop>a {
+  font-family: 'Avenir', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1.3px;
+  padding: 10px 20px;
+  margin-bottom: 20px;  
+  color: #ff3;
+}
+
+</style>
+
